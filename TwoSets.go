@@ -6,7 +6,6 @@ func main () {
 
 	TwoSets(7)
 
-
 }
 
 func TwoSets (number int) {
